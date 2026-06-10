@@ -161,6 +161,7 @@ This model achieved the lowest RMSE, MAE, and MAPE, demonstrating that incorpora
 ## Citation
 
 If you use this work, please cite:
+
 Lazona, B. J., & Clanor, P. (2026). Structural Breaks, Trend Dynamics, and Forecasting Performance of Philippine Electricity Demand: Evidence from 2019–2024.
 
 
